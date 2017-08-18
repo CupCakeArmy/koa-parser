@@ -1,0 +1,23 @@
+{
+  "name": "cca-koa-parser",
+  "version": "0.1.0",
+  "description": "Koa Body Parser",
+  "main": "Parser.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CupCakeArmy/koa-parser.git"
+  },
+  "keywords": [
+    "Koa",
+    "Middleware",
+    "Body",
+    "Parser",
+    "Lightweight"
+  ],
+  "author": "Niccolo Borgioli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CupCakeArmy/koa-parser/issues"
+  },
+  "homepage": "https://github.com/CupCakeArmy/koa-parser#readme"
+}
