@@ -1,6 +1,6 @@
 {
   "name": "cca-koa-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Koa Body Parser",
   "main": "Parser.js",
   "repository": {

@@ -9,18 +9,18 @@ Koa-Middleware for parsing body parameters in the request. Lightweight and no de
 ```javascript
 const
 	Koa = require('koa'),
-	router = require('koa-simple-router'),
-	parser = require('cca-koa-parser')
+	parser = require('cca-koa-parser'),
+	router = require('cca-koa-router')
 
 const
 	app = new Koa(),
-	port = 3001
+	port = 3000
 
 app.use(parser)
 
-app.use(router({}, _ => {
+app.use(router(_ => {
 	_.post('/', (c, n) => {
-		c.body = [200, c.request.body]
+		c.body = c.request.body
 	})
 }))
 
