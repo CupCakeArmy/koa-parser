@@ -1,5 +1,15 @@
 # Koa Body Parser
+[![npm](https://img.shields.io/npm/v/cca-koa-parser.svg)](https://www.npmjs.com/package/cca-koa-parser)
+[![npm](https://img.shields.io/npm/dt/cca-koa-parser.svg)]()
+[![npm](https://img.shields.io/npm/l/cca-koa-parser.svg)]()
+
 Koa-Middleware for parsing body parameters in the request. Lightweight and no dependencies.
+
+### Install
+```bash
+npm install cca-koa-parser --save
+```
+
 ##### Supported encodings:
 - form-data
 - x-www-form-urlencoded
