@@ -1,6 +1,5 @@
 # Koa Body Parser
 
-[![Join the chat at https://gitter.im/cupcakearmy/koa-parser](https://badges.gitter.im/cupcakearmy/koa-parser.svg)](https://gitter.im/cupcakearmy/koa-parser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm](https://img.shields.io/npm/v/cca-koa-parser.svg)](https://www.npmjs.com/package/cca-koa-parser)
 [![npm](https://img.shields.io/npm/dt/cca-koa-parser.svg)]()
 [![npm](https://img.shields.io/npm/l/cca-koa-parser.svg)]()
@@ -11,6 +10,12 @@ Koa-Middleware for parsing body parameters in the request. Lightweight and no de
 ```bash
 npm install cca-koa-parser --save
 ```
+
+### QA
+
+If you have questions:
+
+[![Join the chat at https://gitter.im/cupcakearmy/koa-parser](https://badges.gitter.im/cupcakearmy/koa-parser.svg)](https://gitter.im/cupcakearmy/koa-parser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ##### Supported encodings:
 - form-data
